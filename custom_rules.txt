@@ -1,0 +1,5 @@
+! Google domains.
+||google.com^
+
+! Meta domains.
+||whatsapp.com^
