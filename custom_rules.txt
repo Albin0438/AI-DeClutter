@@ -1,5 +1,16 @@
 ! Google domains.
-||google.com^
+||gemini.google.com^
 
 ! Meta domains.
-||whatsapp.com^
+||meta.ai^
+
+! OpenAI domains.
+||chatgpt.com
+
+! Other Popular AI Services.
+||perplexity.ai^
+||claude.ai^
+||deepseek.com^
+||you.com^
+||youlearn.ai^
+||openclaw.ai^
